@@ -1,1 +1,13 @@
-hello world
+```
+  _____             _____         _   
+ |  __ \           |_   _|       | |  
+ | |  | | _____   __ | | ___  ___| |_ 
+ | |  | |/ _ \ \ / / | |/ _ \/ __| __|
+ | |__| |  __/\ V / _| |  __/\__ \ |_ 
+ |_____/ \___| \_/ |___/\___||___/\__|
+                                      
+Welcome to DevTest Repository!
+
+A development and testing playground for exploring and validating ideas.
+
+```
